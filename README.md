@@ -1,4 +1,4 @@
-## Desafio projeto BarberShop - conclusão de módulo.
+## Desafio Página de captura - conclusão de módulo.
 <img src="images/paginadecaptura.png">
 
 ###
